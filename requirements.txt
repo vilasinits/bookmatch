@@ -1,0 +1,6 @@
+streamlit==1.38.0
+requests==2.32.3
+sentence-transformers==2.2.2
+scikit-learn==1.5.1
+numpy==1.26.4
+textstat==0.7.3
